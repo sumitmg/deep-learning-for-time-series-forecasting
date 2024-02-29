@@ -1,0 +1,5 @@
+,Column,Data Type,Unique,Min,Max,Mean,Median,Missing
+0,date,datetime64[ns],1826,,,,,0
+1,store,int64,10,1,10,5.5,5.5,0
+2,item,int64,50,1,50,25.5,25.5,0
+3,sales,int64,213,0,231,52.250286966046005,47.0,0
